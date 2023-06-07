@@ -30,16 +30,16 @@ default = "Licensed under CC BY-NC-SA 4.0"
 
 ## Widgets
 [[widgets.homepage]]
-type = "搜索"
+type = "search"
 
 [[widgets.homepage]]
-type = "归档"
+type = "archives"
 
 [widgets.homepage.params]
 limit = 5
 
 [[widgets.homepage]]
-type = "分类"
+type = "categories"
 
 [widgets.homepage.params]
 limit = 10

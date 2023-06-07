@@ -1,7 +1,7 @@
 # Uncomment this file to enable multilanguage site support
 
-[en]
-languageName = "English"
+[zh-cn]
+languageName = "Chinese (Simplified)"
 languagedirection = "ltr"
 title = "oldwei"
 weight = 1

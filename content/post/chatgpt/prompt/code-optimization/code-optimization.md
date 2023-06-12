@@ -3,7 +3,7 @@ title: 编程开发Prompt
 description: 今日Prompt,优化编程开发
 slug: code-optimization
 date: 2023-06-12 17:44:38
-image:
+image: cover.jpg
 categories:
   - ai
 tags:

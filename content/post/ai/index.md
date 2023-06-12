@@ -5,9 +5,9 @@ slug: touch_ai
 date: 2023-04-12 14:31:00+0000
 image: cover.jpg
 categories:
-    - ai
+  - ai
 tags:
-    - AI
+  - AI
 ---
 
 这是一篇记录学习AI路线的笔记

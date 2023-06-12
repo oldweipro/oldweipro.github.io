@@ -1,5 +1,5 @@
 ---
-title: AI
+title: AI进阶
 description: AI进阶
 image:
 

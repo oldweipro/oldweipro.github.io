@@ -1,6 +1,6 @@
 ---
 title: AI
-description: AI
+description: AI进阶
 image:
 
 # Badge style

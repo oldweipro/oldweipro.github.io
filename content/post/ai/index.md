@@ -5,7 +5,7 @@ slug: touch_ai
 date: 2023-04-12 14:31:00+0000
 image: cover.jpg
 categories:
-    - 大语言模型
+    - ai
 tags:
     - AI
 ---

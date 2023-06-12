@@ -5,7 +5,7 @@ slug: touch_ai
 date: 2023-06-12 14:31:00+0000
 image: cover.jpg
 categories:
-    - AI进阶
+    - 自我介绍
 tags:
     - AI进阶
 ---

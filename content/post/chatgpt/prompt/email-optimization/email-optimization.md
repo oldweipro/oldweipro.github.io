@@ -3,7 +3,7 @@ title: 邮件优化大师
 description: 今日Prompt,邮件优化大师
 slug: email-optimization
 date: 2023-06-12 17:50:33+0800
-image: img.png
+image: cover.jpg
 categories:
   - ai
 tags:

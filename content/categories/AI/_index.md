@@ -1,6 +1,6 @@
 ---
-title: AI进阶
-description: AI进阶
+title: 大语言模型
+description: 大语言模型
 image:
 
 # Badge style

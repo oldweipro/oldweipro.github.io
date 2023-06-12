@@ -1,7 +1,7 @@
 ---
 title: 大语言模型
 description: 大语言模型
-image:
+image: cover.jpg
 
 # Badge style
 style:

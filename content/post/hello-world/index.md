@@ -1,19 +1,13 @@
 ---
-title: Hello World
-description: Welcome to Hugo Theme Stack
+title: 我是谁
+description: 欢迎访问我的主页
 slug: hello-world
-date: 2022-03-06 00:00:00+0000
+date: 1994-10-25 15:40:00+0000
 image: cover.jpg
 categories:
-    - Example Category
+    - 自我介绍
 tags:
-    - Example Tag
+    - AI
 ---
 
-Welcome to Hugo theme Stack. This is your first post. Edit or delete it, then start writing!
-
-For more information about this theme, check the documentation: https://docs.stack.jimmycai.com/
-
-Want a site like this? Check out [hugo-theme-stack-stater](https://github.com/CaiJimmy/hugo-theme-stack-starter)
-
-> Photo by [Pawel Czerwinski](https://unsplash.com/@pawel_czerwinski) on [Unsplash](https://unsplash.com/)
+我是老卫同学，是一位Java、Go、Vue、TS、Flutter开发工程师。

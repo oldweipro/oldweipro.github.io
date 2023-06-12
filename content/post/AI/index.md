@@ -6,8 +6,6 @@ date: 2023-06-12 14:31:00+0000
 image: cover.jpg
 categories:
     - 大语言模型
-tags:
-    - 大语言模型
 ---
 
 这是一篇记录学习AI路线的笔记

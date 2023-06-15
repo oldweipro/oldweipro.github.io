@@ -10,4 +10,4 @@ tags:
   - 关于
 ---
 
-我是老卫同学，是一位Java、Go、Vue、TS、Flutter开发工程师。
+我是老卫同学，是一位Java、Go、Vue、TS、Flutter开发工程师。我想做个App，有关教育、企业、职场、工具方面的。

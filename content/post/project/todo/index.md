@@ -5,7 +5,7 @@ slug: todo
 date: 2023-06-17 14:04:16
 image: cover.jpg
 categories:
-    - 项目
+    - project
 tags:
     - TODO
 ---

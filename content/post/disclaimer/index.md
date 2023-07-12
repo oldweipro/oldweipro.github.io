@@ -14,6 +14,7 @@ tags:
 
 ### 免责声明
 
+![beidafabao.png](beidafabao.png)
 北大法宝通过正式签约微软Azure云对接OpenAI提供境内合规、稳定的商业应用服务。
 
 对接百度智能云授权的文心一言等各平台应用同时开放接受咨询。

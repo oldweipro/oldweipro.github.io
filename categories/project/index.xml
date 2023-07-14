@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>项目 on oldwei</title><link>https://oldweipro.github.io/categories/project/</link><description>Recent content in 项目 on oldwei</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><lastBuildDate>Sat, 17 Jun 2023 14:04:16 +0000</lastBuildDate><atom:link href="https://oldweipro.github.io/categories/project/index.xml" rel="self" type="application/rss+xml"/><item><title>计划</title><link>https://oldweipro.github.io/p/todo/</link><pubDate>Sat, 17 Jun 2023 14:04:16 +0000</pubDate><guid>https://oldweipro.github.io/p/todo/</guid><description>&lt;img src="https://oldweipro.github.io/p/todo/cover.jpg" alt="Featured image of post 计划" />&lt;h2 id="开放鱼">开放鱼&lt;/h2>
+&lt;ul>
+&lt;li>&lt;del>api key轮询&lt;/del>&lt;/li>
+&lt;li>&lt;del>open fish的API Key&lt;/del>&lt;/li>
+&lt;li>&lt;del>梯子权限 限制时间&lt;/del>&lt;/li>
+&lt;li>&lt;del>定时任务重置梯子远程接口cookie&lt;/del>&lt;/li>
+&lt;li>prompt广场，可以自定义prompt，并且可以分享出去，官方（官方账号以分享的方式）提供prompt供大家免费使用&lt;/li>
+&lt;li>标准化讯飞星火接口&lt;/li>
+&lt;li>接入ChatGPT4，实现接口控制，进行鱼币消费&lt;/li>
+&lt;li>跨平台Flutter客户端&lt;/li>
+&lt;li>梯子页面显示到期时间&lt;/li>
+&lt;li>一键导入clash&lt;/li>
+&lt;li>控制用户到期时间的入口，同时更新用户配置&lt;/li>
+&lt;li>鱼币和次数的概念需要再做进一步的优化&lt;/li>
+&lt;li>可以控制每日签到的数量1，将商品的概念利用起来&lt;/li>
+&lt;li>问问题：产品，1&lt;/li>
+&lt;li>签到：10&lt;/li>
+&lt;li>次数、鱼币等支付商品逻辑&lt;/li>
+&lt;li>向量数据库，有没有必要搞起来；&lt;/li>
+&lt;li>多个厂家的AI，逆向工程API标准化该怎么搞；&lt;/li>
+&lt;li>prompt我初步设计了一张表，有没有更新颖的思路和想法；&lt;/li>
+&lt;li>APP端该开发了，UI上有没有什么想法。&lt;/li>
+&lt;/ul>
+&lt;h2 id="go学习笔记">Go学习笔记&lt;/h2>
+&lt;h2 id="pve服务器">PVE服务器&lt;/h2>
+&lt;p>KVM虚拟机管理系统&lt;/p>
+&lt;h2 id="ai">AI&lt;/h2>
+&lt;p>LangChain
+羊驼🦙&lt;/p>
+&lt;h2 id="chatgpt-hub">ChatGPT HUB&lt;/h2>
+&lt;p>1.貌似有ChatGPT4的样子&lt;/p>
+&lt;p>&lt;a class="link" href="http://goland.cc/" target="_blank" rel="noopener"
+>http://goland.cc/&lt;/a>&lt;/p>
+&lt;p>2.这个捐赠收钱的方式不错&lt;/p>
+&lt;p>&lt;a class="link" href="https://c.binjie.fun/" target="_blank" rel="noopener"
+>https://c.binjie.fun/&lt;/a>&lt;/p></description></item></channel></rss>

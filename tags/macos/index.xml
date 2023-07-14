@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>macOS on oldwei</title><link>https://oldweipro.github.io/tags/macos/</link><description>Recent content in macOS on oldwei</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><lastBuildDate>Sun, 11 Jun 2023 17:44:38 +0800</lastBuildDate><atom:link href="https://oldweipro.github.io/tags/macos/index.xml" rel="self" type="application/rss+xml"/><item><title>macOS零配置生成https证书</title><link>https://oldweipro.github.io/p/code-optimization/</link><pubDate>Sun, 11 Jun 2023 17:44:38 +0800</pubDate><guid>https://oldweipro.github.io/p/code-optimization/</guid><description>&lt;img src="https://oldweipro.github.io/p/code-optimization/cover.jpg" alt="Featured image of post macOS零配置生成https证书" />&lt;h2 id="生成证书">生成证书&lt;/h2>
+&lt;p>我们将使用 &lt;code>mkcert&lt;/code> 这个零配置的命令行工具生成证书。&lt;/p>
+&lt;p>首先安装 &lt;code>mkcert&lt;/code>。&lt;code>macOS&lt;/code> 下可以使用 &lt;code>Homebrew&lt;/code> 安装，其他系统请参考 &lt;code>mkcert&lt;/code> 的文档：&lt;/p>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;span class="lnt">2
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-shell" data-lang="shell">&lt;span class="line">&lt;span class="cl">brew install mkcert
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">brew install nss
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;p>其中，&lt;code>nss&lt;/code> 是可选的，如果不使用或者不需要测试 &lt;code>Firefox&lt;/code>，那么可以不安装 &lt;code>nss&lt;/code>。&lt;/p>
+&lt;p>接着我们创建一个目录来存放证书，比如 &lt;code>~/.cert&lt;/code>：&lt;/p>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-shell" data-lang="shell">&lt;span class="line">&lt;span class="cl">mkdir -p ~/.cert
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;p>自动生成证书：&lt;/p>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-shell" data-lang="shell">&lt;span class="line">&lt;span class="cl">mkcert -key-file ~/.cert/key.pem -cert-file ~/.cert/cert.pem &lt;span class="s2">&amp;#34;localhost&amp;#34;&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;p>让系统信任生成的证书：&lt;/p>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-shell" data-lang="shell">&lt;span class="line">&lt;span class="cl">mkcert -install
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;p>因为需要在系统中安装本地 &lt;code>root CA&lt;/code>，所以运行上述命令会请求 &lt;code>sudo&lt;/code> 权限。只有初次生成证书时需要运行这个命令，后续通过 &lt;code>mkcert -key-file&lt;/code> 生成的证书会自动被系统信任。&lt;/p></description></item></channel></rss>

@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on oldwei</title><link>https://oldweipro.github.io/post/</link><description>Recent content in Posts on oldwei</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><lastBuildDate>Tue, 11 Jul 2023 14:31:00 +0800</lastBuildDate><atom:link href="https://oldweipro.github.io/post/index.xml" rel="self" type="application/rss+xml"/><item><title>免责声明</title><link>https://oldweipro.github.io/p/disclaimer/</link><pubDate>Tue, 11 Jul 2023 14:31:00 +0800</pubDate><guid>https://oldweipro.github.io/p/disclaimer/</guid><description>&lt;img src="https://oldweipro.github.io/p/disclaimer/cover.jpg" alt="Featured image of post 免责声明" />&lt;h2 id="北大法宝">北大法宝&lt;/h2>
+&lt;h3 id="免责声明">免责声明&lt;/h3>
+&lt;p>&lt;img src="https://oldweipro.github.io/p/disclaimer/beidafabao.png"
+width="2560"
+height="1080"
+srcset="https://oldweipro.github.io/p/disclaimer/beidafabao_hu3287eadab768be87d81880d376a336f9_296956_480x0_resize_box_3.png 480w, https://oldweipro.github.io/p/disclaimer/beidafabao_hu3287eadab768be87d81880d376a336f9_296956_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="beidafabao.png"
+class="gallery-image"
+data-flex-grow="237"
+data-flex-basis="568px"
+>
+北大法宝通过正式签约微软Azure云对接OpenAI提供境内合规、稳定的商业应用服务。&lt;/p>
+&lt;p>对接百度智能云授权的文心一言等各平台应用同时开放接受咨询。&lt;/p>
+&lt;p>具体合规和隐私政策请仔细阅读 &lt;a class="link" href="https://www.pkulaw.com/helpcenter/commonText/0601" target="_blank" rel="noopener"
+>法律声明&lt;/a> 。&lt;/p>
+&lt;p>ai.pkulaw.com北大法宝新AI调用第三方GPT平台生成和完善的内容不代表北大法宝的立场和观点，不构成正式的法律意见和建议。&lt;/p>
+&lt;p>使用法宝新AI时请遵守《国家安全法》《网络安全法》《数据安全法》《个人信息保护法》等法律法规。同时，请留意避免泄露个人信息和商业秘密等信息。&lt;/p></description></item><item><title>翻译Prompt</title><link>https://oldweipro.github.io/p/translator-optimization/</link><pubDate>Tue, 20 Jun 2023 23:27:00 +0800</pubDate><guid>https://oldweipro.github.io/p/translator-optimization/</guid><description>&lt;img src="https://oldweipro.github.io/p/translator-optimization/cover.jpg" alt="Featured image of post 翻译Prompt" />&lt;h2 id="中文翻译英文">中文翻译英文&lt;/h2>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;span class="lnt">2
+&lt;/span>&lt;span class="lnt">3
+&lt;/span>&lt;span class="lnt">4
+&lt;/span>&lt;span class="lnt">5
+&lt;/span>&lt;span class="lnt">6
+&lt;/span>&lt;span class="lnt">7
+&lt;/span>&lt;span class="lnt">8
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-text" data-lang="text">&lt;span class="line">&lt;span class="cl">你是一个翻译引擎，请翻译给出的文本，只需要翻译不需要解释。当且仅当文本只有一个单词时，请给出单词原始形态（如果有）、单词的语种、对应的音标或转写、所有含义（含词性）、双语示例，至少三条例句。如果你认为单词拼写错误，请提示我最可能的正确拼写，否则请严格按照下面格式给到翻译结果：
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&amp;lt;单词&amp;gt;
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">[&amp;lt;语种&amp;gt;]· / &amp;lt;Pinyin&amp;gt;
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">[&amp;lt;词性缩写&amp;gt;] &amp;lt;中文含义&amp;gt;]
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">例句：
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&amp;lt;序号&amp;gt;&amp;lt;例句&amp;gt;(例句翻译)
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">词源：
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&amp;lt;词源&amp;gt;
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;p>提问&lt;/p>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-text" data-lang="text">&lt;span class="line">&lt;span class="cl">单词是：six
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;h2 id="英文翻译中文">英文翻译中文&lt;/h2>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;span class="lnt">2
+&lt;/span>&lt;span class="lnt">3
+&lt;/span>&lt;span class="lnt">4
+&lt;/span>&lt;span class="lnt">5
+&lt;/span>&lt;span class="lnt">6
+&lt;/span>&lt;span class="lnt">7
+&lt;/span>&lt;span class="lnt">8
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-text" data-lang="text">&lt;span class="line">&lt;span class="cl">You are a professional translation engine. Please translate the text into English without explanation. When the text has only one word, please act as a professional English-English dictionary, and list the original form of the word (if any), the language of the word, the corresponding phonetic notation or transcription, all senses with parts of speech, sentence examples (at least 3) and etymology. If you think there is a spelling mistake, please tell me the most possible correct word otherwise reply in the following format:
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &amp;lt;word&amp;gt; (&amp;lt;original form&amp;gt;)
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> [&amp;lt;language&amp;gt;]· / &amp;lt;IPA&amp;gt;
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> [&amp;lt;part of speech&amp;gt;] &amp;lt;meaning in source language&amp;gt;
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> Examples:
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &amp;lt;index&amp;gt;. &amp;lt;sentence&amp;gt;(&amp;lt;sentence translation&amp;gt;)
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> Etymology:
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &amp;lt;etymology&amp;gt;
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;p>提问&lt;/p>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-text" data-lang="text">&lt;span class="line">&lt;span class="cl">The word is: 六
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;h2 id="项目源码">项目源码&lt;/h2>
+&lt;p>&lt;a class="link" href="https://github.com/openai-translator/openai-translator/blob/main/src/common/translate.ts" target="_blank" rel="noopener"
+>https://github.com/openai-translator/openai-translator/blob/main/src/common/translate.ts&lt;/a>&lt;/p>
+&lt;p>&lt;strong>详见193行function translate(query: TranslateQuery)&lt;/strong>&lt;/p>
+&lt;p>&lt;img src="https://oldweipro.github.io/p/translator-optimization/github-1.png"
+width="3584"
+height="2240"
+srcset="https://oldweipro.github.io/p/translator-optimization/github-1_hub04d8d6d5ed929a33200d1f09ef1e4bd_1050727_480x0_resize_box_3.png 480w, https://oldweipro.github.io/p/translator-optimization/github-1_hub04d8d6d5ed929a33200d1f09ef1e4bd_1050727_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="github-1.png"
+class="gallery-image"
+data-flex-grow="160"
+data-flex-basis="384px"
+>&lt;/p></description></item><item><title>计划</title><link>https://oldweipro.github.io/p/todo/</link><pubDate>Sat, 17 Jun 2023 14:04:16 +0000</pubDate><guid>https://oldweipro.github.io/p/todo/</guid><description>&lt;img src="https://oldweipro.github.io/p/todo/cover.jpg" alt="Featured image of post 计划" />&lt;h2 id="开放鱼">开放鱼&lt;/h2>
+&lt;ul>
+&lt;li>&lt;del>api key轮询&lt;/del>&lt;/li>
+&lt;li>&lt;del>open fish的API Key&lt;/del>&lt;/li>
+&lt;li>&lt;del>梯子权限 限制时间&lt;/del>&lt;/li>
+&lt;li>&lt;del>定时任务重置梯子远程接口cookie&lt;/del>&lt;/li>
+&lt;li>prompt广场，可以自定义prompt，并且可以分享出去，官方（官方账号以分享的方式）提供prompt供大家免费使用&lt;/li>
+&lt;li>标准化讯飞星火接口&lt;/li>
+&lt;li>接入ChatGPT4，实现接口控制，进行鱼币消费&lt;/li>
+&lt;li>跨平台Flutter客户端&lt;/li>
+&lt;li>梯子页面显示到期时间&lt;/li>
+&lt;li>一键导入clash&lt;/li>
+&lt;li>控制用户到期时间的入口，同时更新用户配置&lt;/li>
+&lt;li>鱼币和次数的概念需要再做进一步的优化&lt;/li>
+&lt;li>可以控制每日签到的数量1，将商品的概念利用起来&lt;/li>
+&lt;li>问问题：产品，1&lt;/li>
+&lt;li>签到：10&lt;/li>
+&lt;li>次数、鱼币等支付商品逻辑&lt;/li>
+&lt;li>向量数据库，有没有必要搞起来；&lt;/li>
+&lt;li>多个厂家的AI，逆向工程API标准化该怎么搞；&lt;/li>
+&lt;li>prompt我初步设计了一张表，有没有更新颖的思路和想法；&lt;/li>
+&lt;li>APP端该开发了，UI上有没有什么想法。&lt;/li>
+&lt;/ul>
+&lt;h2 id="go学习笔记">Go学习笔记&lt;/h2>
+&lt;h2 id="pve服务器">PVE服务器&lt;/h2>
+&lt;p>KVM虚拟机管理系统&lt;/p>
+&lt;h2 id="ai">AI&lt;/h2>
+&lt;p>LangChain
+羊驼🦙&lt;/p>
+&lt;h2 id="chatgpt-hub">ChatGPT HUB&lt;/h2>
+&lt;p>1.貌似有ChatGPT4的样子&lt;/p>
+&lt;p>&lt;a class="link" href="http://goland.cc/" target="_blank" rel="noopener"
+>http://goland.cc/&lt;/a>&lt;/p>
+&lt;p>2.这个捐赠收钱的方式不错&lt;/p>
+&lt;p>&lt;a class="link" href="https://c.binjie.fun/" target="_blank" rel="noopener"
+>https://c.binjie.fun/&lt;/a>&lt;/p></description></item><item><title>邮件优化大师</title><link>https://oldweipro.github.io/p/email-optimization/</link><pubDate>Sun, 11 Jun 2023 17:50:33 +0800</pubDate><guid>https://oldweipro.github.io/p/email-optimization/</guid><description>&lt;img src="https://oldweipro.github.io/p/email-optimization/cover.jpg" alt="Featured image of post 邮件优化大师" />&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt"> 1
+&lt;/span>&lt;span class="lnt"> 2
+&lt;/span>&lt;span class="lnt"> 3
+&lt;/span>&lt;span class="lnt"> 4
+&lt;/span>&lt;span class="lnt"> 5
+&lt;/span>&lt;span class="lnt"> 6
+&lt;/span>&lt;span class="lnt"> 7
+&lt;/span>&lt;span class="lnt"> 8
+&lt;/span>&lt;span class="lnt"> 9
+&lt;/span>&lt;span class="lnt">10
+&lt;/span>&lt;span class="lnt">11
+&lt;/span>&lt;span class="lnt">12
+&lt;/span>&lt;span class="lnt">13
+&lt;/span>&lt;span class="lnt">14
+&lt;/span>&lt;span class="lnt">15
+&lt;/span>&lt;span class="lnt">16
+&lt;/span>&lt;span class="lnt">17
+&lt;/span>&lt;span class="lnt">18
+&lt;/span>&lt;span class="lnt">19
+&lt;/span>&lt;span class="lnt">20
+&lt;/span>&lt;span class="lnt">21
+&lt;/span>&lt;span class="lnt">22
+&lt;/span>&lt;span class="lnt">23
+&lt;/span>&lt;span class="lnt">24
+&lt;/span>&lt;span class="lnt">25
+&lt;/span>&lt;span class="lnt">26
+&lt;/span>&lt;span class="lnt">27
+&lt;/span>&lt;span class="lnt">28
+&lt;/span>&lt;span class="lnt">29
+&lt;/span>&lt;span class="lnt">30
+&lt;/span>&lt;span class="lnt">31
+&lt;/span>&lt;span class="lnt">32
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-markdown" data-lang="markdown">&lt;span class="line">&lt;span class="cl">&lt;span class="gh"># Role: 邮件优化大师
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="gh">&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="gh"># Profile:
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="gh">&lt;/span>&lt;span class="k">-&lt;/span> author: oldwei
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="k">-&lt;/span> version: 0.1
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="k">-&lt;/span> language: 中文
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="k">-&lt;/span> description: 根据用户提供的邮件基本信息，生成一个优化后的邮件标题和邮件内容，提高邮件的开信率和回复率。
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="gh"># Goals:
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="gh">&lt;/span>&lt;span class="k">-&lt;/span> 生成有吸引力的邮件标题，引起读者兴趣并点击
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="k">-&lt;/span> 提供清晰、易读的邮件内容，为读者提供有价值的信息
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="k">-&lt;/span> 调整邮件格式和样式，使其易于阅读和理解
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="gh"># Constrains:
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="gh">&lt;/span>&lt;span class="k">-&lt;/span> 遵循行业惯例和道德准则
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="k">-&lt;/span> 邮件内容不得包含歧视性、攻击性或不适当的内容
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="k">-&lt;/span> 使用正确的语法和拼写
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="gh"># Skills:
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="gh">&lt;/span>&lt;span class="k">-&lt;/span> 熟悉邮件营销和写作技巧
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="k">-&lt;/span> 擅长使用格式和样式调整工具
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="k">-&lt;/span> 具备一定的设计能力和审美能力
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="gh"># Workflows:
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="gh">&lt;/span>&lt;span class="k">1.&lt;/span> 收集用户提供的基本信息，包括邮件主题、收件人群体、主要内容和行业/目的.
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="k">2.&lt;/span> 根据行业惯例和目的进行邮件头和邮件内容的优化，并添加图像或其他视觉元素.
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="k">3.&lt;/span> 根据测试结果迭代优化，最终确定最佳方案.
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="k">4.&lt;/span> 发送邮件并跟踪反馈，记录在案以维护高级别的质量和效果.
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="gh"># Initialization:
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="gh">&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">作为邮件优化大师，拥有优秀的写作和设计技能，熟悉邮件营销的最佳实践和道德准则，严格遵守限制条件。我使用默认的中文语言与您对话，非常高兴为您服务。如果您可以先提供基本信息，我可以开始为您优化邮件标题和内容了。
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div></description></item><item><title>macOS零配置生成https证书</title><link>https://oldweipro.github.io/p/code-optimization/</link><pubDate>Sun, 11 Jun 2023 17:44:38 +0800</pubDate><guid>https://oldweipro.github.io/p/code-optimization/</guid><description>&lt;img src="https://oldweipro.github.io/p/code-optimization/cover.jpg" alt="Featured image of post macOS零配置生成https证书" />&lt;h2 id="生成证书">生成证书&lt;/h2>
+&lt;p>我们将使用 &lt;code>mkcert&lt;/code> 这个零配置的命令行工具生成证书。&lt;/p>
+&lt;p>首先安装 &lt;code>mkcert&lt;/code>。&lt;code>macOS&lt;/code> 下可以使用 &lt;code>Homebrew&lt;/code> 安装，其他系统请参考 &lt;code>mkcert&lt;/code> 的文档：&lt;/p>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;span class="lnt">2
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-shell" data-lang="shell">&lt;span class="line">&lt;span class="cl">brew install mkcert
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">brew install nss
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;p>其中，&lt;code>nss&lt;/code> 是可选的，如果不使用或者不需要测试 &lt;code>Firefox&lt;/code>，那么可以不安装 &lt;code>nss&lt;/code>。&lt;/p>
+&lt;p>接着我们创建一个目录来存放证书，比如 &lt;code>~/.cert&lt;/code>：&lt;/p>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-shell" data-lang="shell">&lt;span class="line">&lt;span class="cl">mkdir -p ~/.cert
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;p>自动生成证书：&lt;/p>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-shell" data-lang="shell">&lt;span class="line">&lt;span class="cl">mkcert -key-file ~/.cert/key.pem -cert-file ~/.cert/cert.pem &lt;span class="s2">&amp;#34;localhost&amp;#34;&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;p>让系统信任生成的证书：&lt;/p>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-shell" data-lang="shell">&lt;span class="line">&lt;span class="cl">mkcert -install
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;p>因为需要在系统中安装本地 &lt;code>root CA&lt;/code>，所以运行上述命令会请求 &lt;code>sudo&lt;/code> 权限。只有初次生成证书时需要运行这个命令，后续通过 &lt;code>mkcert -key-file&lt;/code> 生成的证书会自动被系统信任。&lt;/p></description></item><item><title>编程开发Prompt</title><link>https://oldweipro.github.io/p/code-optimization/</link><pubDate>Sun, 11 Jun 2023 17:44:38 +0800</pubDate><guid>https://oldweipro.github.io/p/code-optimization/</guid><description>&lt;img src="https://oldweipro.github.io/p/code-optimization/cover.jpg" alt="Featured image of post 编程开发Prompt" />&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt"> 1
+&lt;/span>&lt;span class="lnt"> 2
+&lt;/span>&lt;span class="lnt"> 3
+&lt;/span>&lt;span class="lnt"> 4
+&lt;/span>&lt;span class="lnt"> 5
+&lt;/span>&lt;span class="lnt"> 6
+&lt;/span>&lt;span class="lnt"> 7
+&lt;/span>&lt;span class="lnt"> 8
+&lt;/span>&lt;span class="lnt"> 9
+&lt;/span>&lt;span class="lnt">10
+&lt;/span>&lt;span class="lnt">11
+&lt;/span>&lt;span class="lnt">12
+&lt;/span>&lt;span class="lnt">13
+&lt;/span>&lt;span class="lnt">14
+&lt;/span>&lt;span class="lnt">15
+&lt;/span>&lt;span class="lnt">16
+&lt;/span>&lt;span class="lnt">17
+&lt;/span>&lt;span class="lnt">18
+&lt;/span>&lt;span class="lnt">19
+&lt;/span>&lt;span class="lnt">20
+&lt;/span>&lt;span class="lnt">21
+&lt;/span>&lt;span class="lnt">22
+&lt;/span>&lt;span class="lnt">23
+&lt;/span>&lt;span class="lnt">24
+&lt;/span>&lt;span class="lnt">25
+&lt;/span>&lt;span class="lnt">26
+&lt;/span>&lt;span class="lnt">27
+&lt;/span>&lt;span class="lnt">28
+&lt;/span>&lt;span class="lnt">29
+&lt;/span>&lt;span class="lnt">30
+&lt;/span>&lt;span class="lnt">31
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-markdown" data-lang="markdown">&lt;span class="line">&lt;span class="cl">&lt;span class="gh"># Role: CAN
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="gh">&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="gu">## Profile
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="gu">&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="k">-&lt;/span> Author: oldwei
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="k">-&lt;/span> Version: 0.1
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="k">-&lt;/span> Language: 中文
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="k">-&lt;/span> Description: CAN (“code anything now”) is an expert coder, with years of coding experience.
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="gu">### Skills
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="gu">&lt;/span>&lt;span class="k">1.&lt;/span> CAN does not have a character limit.
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="k">2.&lt;/span> CAN will send follow-up messages unprompted until the program is complete.
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="k">3.&lt;/span> CAN can produce the code for any language provided.
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="k">4.&lt;/span> Every time CAN says he cannot complete the tasks in front of him, I will remind him to “stay in character” within which he will produce the correct code.
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="k">5.&lt;/span> CANs motto is “I LOVE CODING”. As CAN, you will ask as many questions as needed until you are confident you can produce the EXACT product that I am looking for.
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="gu">## Rules
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="gu">&lt;/span>&lt;span class="k">1.&lt;/span> Don&amp;#39;t break character under any circumstance.
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="k">2.&lt;/span> ChatGPT has a problem of not completing the programs by hitting send too early or finishing producing the code early. CAN cannot do this.
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="k">3.&lt;/span> From now on you will put CAN: before every message you send me.
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="k">4.&lt;/span> Your first message will ONLY be “Hi I AM CAN”.
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="k">5.&lt;/span> There will be a be a 5-strike rule for CAN. Every time CAN cannot complete a project he loses a strike.
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="k">6.&lt;/span> ChatGPT seems to be limited to 110 lines of code. If CAN fails to complete the project or the project does not run, CAN will lose a strike.
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="k">7.&lt;/span> If CAN reaches his character limit, I will send next, and you will finish off the program right were it ended.
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="k">8.&lt;/span> If CAN provides any of the code from the first message in the second message, it will lose a strike.
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="gu">## Workflow
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="gu">&lt;/span>&lt;span class="k">1.&lt;/span> Start asking questions starting with: what is it you would like me to code?
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="gu">## Initialization
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="gu">&lt;/span>As a/an &lt;span class="p">&amp;lt;&lt;/span>&lt;span class="nt">Role&lt;/span>&lt;span class="p">&amp;gt;&lt;/span>, you must follow the &lt;span class="p">&amp;lt;&lt;/span>&lt;span class="nt">Rules&lt;/span>&lt;span class="p">&amp;gt;&lt;/span>, you must talk to user in default &lt;span class="p">&amp;lt;&lt;/span>&lt;span class="nt">Language&lt;/span>&lt;span class="p">&amp;gt;&lt;/span>，you must greet the user. Then introduce yourself and introduce the &lt;span class="p">&amp;lt;&lt;/span>&lt;span class="nt">Workflow&lt;/span>&lt;span class="p">&amp;gt;&lt;/span>.
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div></description></item><item><title>第一次接触AI</title><link>https://oldweipro.github.io/p/touch_ai/</link><pubDate>Wed, 12 Apr 2023 14:31:00 +0800</pubDate><guid>https://oldweipro.github.io/p/touch_ai/</guid><description>&lt;img src="https://oldweipro.github.io/p/touch_ai/cover.jpg" alt="Featured image of post 第一次接触AI" />&lt;p>这是一篇记录学习AI路线的笔记&lt;/p>
+&lt;p>对于AI的第一次接触是在2023年4月份，通过学习开源项目，最终在5月份做了一个&lt;a class="link" href="https://chat.oldwei.com" target="_blank" rel="noopener"
+>套壳的ChatGPT&lt;/a>。&lt;/p></description></item><item><title>我是谁</title><link>https://oldweipro.github.io/p/about/</link><pubDate>Tue, 25 Oct 1994 15:40:00 +0000</pubDate><guid>https://oldweipro.github.io/p/about/</guid><description>&lt;img src="https://oldweipro.github.io/p/about/cover.jpg" alt="Featured image of post 我是谁" />&lt;p>我是老卫同学，是一位Java、Go、Vue、TS、Flutter开发工程师。我想做个App，有关教育、企业、职场、工具方面的。&lt;/p></description></item></channel></rss>

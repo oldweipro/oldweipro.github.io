@@ -45,4 +45,10 @@ LangChain
 
 ## ChatGPT HUB
 
-`http://goland.cc/`
+1.貌似有ChatGPT4的样子
+
+[http://goland.cc/](http://goland.cc/)
+
+2.这个捐赠收钱的方式不错
+
+[https://c.binjie.fun/](https://c.binjie.fun/)
